@@ -3,10 +3,6 @@
 # 🐍 Python Mini Projects Portfolio
 ### Simple Applications • Task Automation • Core Python Scripts
 
-![Python](https://shields.io)
-![Status](https://shields.io)
-![License](https://shields.io)
-
 **Personal Code Lab**
 *A collection of simple, beginner-friendly, and functional Python projects built to solve everyday problems and practice core programming concepts.*
 
